@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1551041170 source:f:\projeto-paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1552479202 source:e:\projeto-paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1552477126 source:d:\projeto-paradigmas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
